@@ -11,3 +11,5 @@ https://mhowitz.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Mikayla Howitz
+
+# Run Buddy Inc.
